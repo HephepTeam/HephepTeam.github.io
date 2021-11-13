@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
-
 I'm Michaël Boyer, or Hephep. I'm a french video game maker working mainly with Godot Engine. 
-
-This is my portfolio, about all my projects. Have fun!
-
+This is my portfolio, about all the projects I was involved in. Have fun!
 * * *
+# Commercial Games
+* * * 
+## Run: The World In Between
+![Run: The World In Between](assets/images/run/run.gif)
+* Game Type: Platformer / Runner
+* Platforms: Steam
+* Role on the project: main developer, participated in the game design
+* My coding achievements: I did my own menu system from scratch and a controls binding menu that I will reuse for other games.
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
