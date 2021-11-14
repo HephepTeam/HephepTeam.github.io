@@ -8,10 +8,19 @@ This is my portfolio, about all the projects I was involved in. Have fun!
 * * * 
 ## Run: The World In Between
 ![Run: The World In Between](assets/images/run/run.gif)
-* Game Type: Platformer / Runner
-* Platforms: Steam
-* Role on the project: main developer, participated in the game design
-* My coding achievements: I did my own menu system from scratch and a controls binding menu that I will reuse for other games.
+* **Game Type:** Platformer / Runner
+* **Platforms:** [Steam](https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/)
+* **Role on the project:** main developer, participated in the game design
+* **Tools and framework:** Godot Engine 3.3
+* **What I'm proud of:** I did my own menu system from scratch and a controls binding menu that I will reuse for other games. people told me the character's physics feels really good.
+
+## Micro adventure in a dark alley Demo
+![Micro adventure in a dark alley](assets/images/MAIADA/banner.gif)
+* **Game Type:** Platformer / adventure
+* **Platforms:** [Itch.io](https://hephep.itch.io/micro-adventure-in-a-dark-alley)
+* **Role on the project:** solo developper, made all the sound effects and Arts
+* **Tools and framework:** Game Maker Studio 1.8
+* **What I'm proud of:** First serious project, pixel art animations I did are cool, first time doing cutscenes successfully.
 
 
 
