@@ -4,7 +4,8 @@ layout: default
 I'm Michaël Boyer, or Hephep. I'm a french video game maker working mainly with Godot Engine. 
 This is my portfolio, about all the projects I was involved in. Have fun!
 * * *
-# Commercial Games
+
+# Complete Games
 * * * 
 ## Run: The World In Between
 ![Run: The World In Between](assets/images/run/run.gif)
