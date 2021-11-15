@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-I'm Michaël Boyer, or Hephep. I'm a french video game maker working mainly with Godot Engine. 
-This is my portfolio, about all the projects I was involved in. Have fun!
+I'm Michaël Boyer, or Hephep. I'm a french videogame maker working mainly with Godot Engine. 
+This is my portfolio, about all the projects I was involved in. Currently part of the Team Run. Have fun!
 * * *
 
 # Complete Games
@@ -20,10 +20,47 @@ This is my portfolio, about all the projects I was involved in. Have fun!
 * **Game Type:** Platformer / adventure
 * **Platforms:** [Itch.io](https://hephep.itch.io/micro-adventure-in-a-dark-alley)
 * **Role on the project:** solo developper, made all the sound effects and Arts
-* **Tools and framework:** Game Maker Studio 1.8
+* **Tools and framework:** Game Maker Studio 1.8 and Pixly / Aseprite
 * **What I'm proud of:** First serious project, pixel art animations I did are cool, first time doing cutscenes successfully.
 
+## Hephep Fever
+![Hephep Fever](assets/images/hephep fever/banner.gif)
+* **Game Type:** Arcade game
+* **Platforms:** [Itch.io](https://hephep.itch.io/hephep-fever)
+* **Role on the project:** solo developper
+* **Tools and framework:** Unity 3D
+* **What I'm proud of:** First "complete" project with a beginning and an end, it still make me laugh after all these years!
 
+* * * 
+
+
+
+# Prototypes, experiments and gamejam games
+* * * 
+
+### Tamanegi Nashi (development aborted)
+### Labyrinthe (prototype)
+### Commande'Os (gamejam)
+### Loto Vocal (simple app)
+### Alien Wakeup Ritual (gamejam)
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+* * *
+* * *
+* * *
+* * *
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -42,23 +79,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -81,24 +101,6 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 ### And a nested list:
 
 - level 1 item
@@ -114,14 +116,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
