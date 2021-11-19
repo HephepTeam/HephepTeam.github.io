@@ -44,11 +44,12 @@ A platformer game about an onion. Aborted project right before RUN. More informa
 
 ### Labyrinthe (prototype)
 *Godot 3.0*  
+[Itch.io link](https://hephep.itch.io/labyrinthe){:target="_blank"}   
 A small game for my kid allowing me to try to implement a Randomized depth-first search algorithm for the maze generation.  
 
 ### Commande'Os (gamejam game)
 *Unity 3D*  
-[Itch.io link](https://hepcoco.itch.io/tamanegi-nashi){:target="_blank"}  
+[Itch.io link](https://hephep.itch.io/commandeos){:target="_blank"}  
 Developped at the Global Gam Jam 2018 (theme: Transmission) you play as a friendly postman trying to deliver mail from house
 to house without getting detected and caught by dogs haunting the neighborhood.  
 
