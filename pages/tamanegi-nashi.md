@@ -16,7 +16,7 @@ there is a long-time drought and onions are known to makes vegetables waste thei
 it's peers and ultimately find the source of the drought to end it. The character can run, jump, dash, walljump and fire water bullet. 
 But the twist is that he's not supposed to kill or harm people, so firing water to ennemies is to make them change or disable
 them for a while (water for making a plant blossom and reveal a platform, or slow down ennemies by watering their eyes). The 
-world was supposed to be divided in biome, with several level and a boss for each. Nashi would acquire abilities along the way,
+world was supposed to be divided in biome, with several levels and a boss for each. Nashi would acquire abilities along the way,
 we planned animated cutscenes, a tutorial, and alternative versions of each level to speedrun. 
 
 On the art part, everything was hand-drawn and fully animated.
@@ -27,7 +27,7 @@ On the art part, everything was hand-drawn and fully animated.
 to have a nice black outline around the smoke. 
 
 ### Post-Mortem Thoughts
-Tamanegi Nashi was supposed to our first full game. Actually it came to be our first failure as game developpers, 
+Tamanegi Nashi was supposed to be our first full game. Actually it came to be our first failure as game developpers, 
 but I'm ok with that. This project is full of lessons to take. It's my first real collaboration with someone 
 I never worked with before, and most if it was done remotely. Eventually the team grew up in regards of the 
 initial scope of the game. At the end, with people doing this on their part time, never seeing each others, lacking
