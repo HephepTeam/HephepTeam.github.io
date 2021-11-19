@@ -38,106 +38,29 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * * * 
 
 ### Tamanegi Nashi (development aborted)
-[Itch.io](https://hepcoco.itch.io/tamanegi-nashi){:target="_blank"}  
-A platformer game about an onion. Aborted project right before RUN. More information [here](./pages/tamanegi-nashi.html).
+*Godot 3.1*  
+[Itch.io link](https://hepcoco.itch.io/tamanegi-nashi){:target="_blank"}   
+A platformer game about an onion. Aborted project right before RUN. More information [here](./pages/tamanegi-nashi.html).  
 
 ### Labyrinthe (prototype)
-### Commande'Os (gamejam)
+*Godot 3.0*  
+A small game for my kid allowing me to try to implement a Randomized depth-first search algorithm for the maze generation.  
+
+### Commande'Os (gamejam game)
+*Unity 3D*  
+[Itch.io link](https://hepcoco.itch.io/tamanegi-nashi){:target="_blank"}  
+Developped at the Global Gam Jam 2018 (theme: Transmission) you play as a friendly postman trying to deliver mail from house
+to house without getting detected and caught by dogs haunting the neighborhood.  
+
 ### Loto Vocal (android app)
-### Alien Wakeup Ritual (gamejam)
-https://globalgamejam.org/2016/games/alien-wakeup-ritual
+*Godot 3.2*  
+A very simple android app to play Bingo with my familly. It allowed me to experience exporting app for android. On a simple touch,
+the app pull a number from 1 to 90 and it read it out loud with the beautiful voice of my wife. Each pulled numbered are 
+noted on the side of the screen to check during the game. Grids and chips not included.  
 
-
-
-
-
-
-
-
-
-
-
-
-* * *
-* * *
-* * *
-* * *
-* * *
-* * *
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Alien Wakeup Ritual (gamejam game)
+*Unity 3D*  
+[Global Gamejam site](https://globalgamejam.org/2016/games/alien-wakeup-ritual){:target="_blank"}  
+Developped at the Global Gam Jam 2016 (theme: ritual), it's a party game where Aliens players are waking up and must do all the stages
+of their morning routine (as mini-games) before the 3 others players and then leave to work. My first gamejam, with a team of 4 friends, 
+it practically started my passion for game developpment. 
