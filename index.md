@@ -33,6 +33,13 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 
 * * * 
 
+# Help given on other projects
+* * * 
+
+### Mother : Encore
+*Godot 3.4*
+[Twitter](https://twitter.com/Mother_Encore){:target="_blank"}  
+A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inventory menu. Didn't had the time to do much more but it would be a pleasure if the opportunity arises again.
 
 # Prototypes, experiments and gamejam games
 * * * 
