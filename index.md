@@ -26,7 +26,7 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 ## Hephep Fever
 ![Hephep Fever](assets/images/hephep fever/banner.gif)
 * **Game Type:** Arcade game
-* **Platforms:** [Itch.io](https://hephep.itch.io/hephep-fever){:target="_blank"}
+* **Platforms:** [Itch.io](https://hephep.itch.io/hephep-fever){:target="_blank"}, but best played at [this url](https://hephepteam.github.io/HephepFever/){:target="_blank"}
 * **Role on the project:** solo developper
 * **Tools and framework:** Unity 3D
 * **What I'm proud of:** First "complete" project with a beginning and an end, it still make me laugh after all these years!
