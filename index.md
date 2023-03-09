@@ -5,6 +5,17 @@ I'm Michaël Boyer, or Hephep. I'm a french videogame maker working mainly with 
 This is my portfolio, about all the projects I was involved in. Currently part of the Team Run. Have fun!
 * * *
 
+
+# In development
+* * * 
+## Broken Lens
+![Broken Lens menu](assets/images/broken lens/BL_menu.gif)![Broken Lens menu](assets/images/broken lens/BL_menu2.gif)![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
+* **Game Type:** Puzzle / Spot the differences
+* **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
+* **Role on the project:** main developer, game designer
+* **Tools and framework:** Godot Engine 3.5
+* **What I'm proud of:** Whole new style art style, working with Viewports, gaining experience in many fields. I did a pretty neat interactive book with shaders. I'm still learning every day!
+
 # Complete Games
 * * * 
 ## Run: The World In Between
@@ -43,6 +54,8 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 
 # Prototypes, experiments and gamejam games
 * * * 
+
+### 
 
 ### Tamanegi Nashi (development aborted)
 *Godot 3.1*  
