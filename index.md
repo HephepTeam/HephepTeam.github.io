@@ -51,8 +51,8 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * * * 
 
 ### Mother : Encore
-<a href="/assets/images/Mother_encore/menu.png" target="_blank"><img src="/assets/images/Mother_encore/menu.png" width="305" height="180" alt="Mother : Encore menu" /></a>
-*Godot 3.4*
+<a href="/assets/images/Mother_encore/menu.png" target="_blank"><img src="/assets/images/Mother_encore/menu.png" width="305" height="180" alt="Mother : Encore menu" /></a>  
+*Godot 3.4*  
 [Twitter](https://twitter.com/Mother_Encore){:target="_blank"}  
 A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inventory menu. Didn't had the time to do much more but it would be a pleasure if the opportunity arises again.
 
@@ -61,7 +61,7 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 
 
 ### Into the Friches (gamejam game)
-<a href="/assets/images/intothefriches/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>
+<a href="/assets/images/intothefriches/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
 *Godot 4.beta.13*  
 [Itch.io link](https://hephep.itch.io/ggj23-into-the-friches){:target="_blank"}   
 First time doing a "strategy" game / turn-based game, for the Global Game Jam 2023, with my sister doing Arts and Musics.
