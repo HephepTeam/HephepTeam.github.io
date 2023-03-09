@@ -9,7 +9,10 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 # In development
 * * * 
 ## Broken Lens
-![Broken Lens menu](assets/images/broken lens/BL_menu.gif)![Broken Lens menu](assets/images/broken lens/BL_menu2.gif)![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
+![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
+![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
+![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
+![Broken Lens menu](assets/images/broken lens/BL_book.png)
 * **Game Type:** Puzzle / Spot the differences
 * **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
 * **Role on the project:** main developer, game designer
@@ -48,6 +51,7 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * * * 
 
 ### Mother : Encore
+![Mother : Encore menu](assets/images/Mother_encore/menu.png)
 *Godot 3.4*
 [Twitter](https://twitter.com/Mother_Encore){:target="_blank"}  
 A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inventory menu. Didn't had the time to do much more but it would be a pleasure if the opportunity arises again.
@@ -55,7 +59,13 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 # Prototypes, experiments and gamejam games
 * * * 
 
-### 
+
+### Into the Friches (gamejam game)
+![Into the Friches](assets/images/intothefriches/screenshot.png)
+*Godot 4.beta.13*  
+[Itch.io link](https://hephep.itch.io/ggj23-into-the-friches){:target="_blank"}   
+First time doing a "strategy" game / turn-based game, for the Global Game Jam 2023, with my sister doing Arts and Musics.
+The goal is to balance the carbon emissions of a region, acting on the tiles with modifiers to shape the landscape and enhance to total score.   
 
 ### Tamanegi Nashi (development aborted)
 *Godot 3.1*  
