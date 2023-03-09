@@ -12,7 +12,7 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 ![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
 ![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
 ![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
-![Broken Lens menu](assets/images/broken lens/BL_book.png)
+![Broken Lens menu](assets/images/broken lens/BL_book.gif)
 * **Game Type:** Puzzle / Spot the differences
 * **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
 * **Role on the project:** main developer, game designer
@@ -52,6 +52,7 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 
 ### Mother : Encore
 ![Mother : Encore menu](assets/images/Mother_encore/menu.png)
+
 *Godot 3.4*
 [Twitter](https://twitter.com/Mother_Encore){:target="_blank"}  
 A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inventory menu. Didn't had the time to do much more but it would be a pleasure if the opportunity arises again.
