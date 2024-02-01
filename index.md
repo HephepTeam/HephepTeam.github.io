@@ -5,27 +5,6 @@ I'm Michaël Boyer, or Hephep. I'm a french videogame maker working mainly with 
 This is my portfolio, about all the projects I was involved in. Currently part of the Team Run. Have fun!
 * * *
 
-
-# In development
-* * * 
-## Broken Lens
-![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
-![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
-![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
-![Broken Lens menu](assets/images/broken lens/BL_book.gif)
-* **Game Type:** Puzzle / Spot the differences
-* **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
-* **Role on the project:** main developer, game designer
-* **Tools and framework:** Godot Engine 3.5
-* **What I'm proud of:** Whole new style art style, working with Viewports, gaining experience in many fields. I did a pretty neat interactive book with shaders. I'm still learning every day!
-
-## HephepBuilder
-* **Game Type:** Tool
-* **Platforms:** [Github](https://github.com/HephepTeam/HephepBuilder){:target="_blank"}
-* **Role on the project:** main developer
-* **Tools and framework:** Godot Engine 4.2
-* **What I'm proud of:** This tool purpose is to automatize the build process for all the platform RUN : The World In-Between is on. It allow me to build for Windows, MacOS and Linux upload the game on Steam and Itch.io, but I gave it the flexibility to be extended to other game and distribution platform, as it can execute custom scripts after the build. I save a lot of time and avoid errors during release.
-
 # Complete Games
 * * * 
 ## Run: The World In Between
@@ -51,8 +30,29 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * **Role on the project:** solo developper
 * **Tools and framework:** Unity 3D
 * **What I'm proud of:** First "complete" project with a beginning and an end, it still make me laugh after all these years!
-
 * * * 
+# In development
+* * * 
+## Broken Lens
+![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
+![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
+![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
+![Broken Lens menu](assets/images/broken lens/BL_book.gif)
+* **Game Type:** Puzzle / Spot the differences
+* **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
+* **Role on the project:** main developer, game designer
+* **Tools and framework:** Godot Engine 3.5
+* **What I'm proud of:** Whole new style art style, working with Viewports, gaining experience in many fields. I did a pretty neat interactive book with shaders. I'm still learning every day!
+
+## HephepBuilder
+* **Game Type:** Tool
+* **Platforms:** [Github](https://github.com/HephepTeam/HephepBuilder){:target="_blank"}
+* **Role on the project:** main developer
+* **Tools and framework:** Godot Engine 4.2
+* **What I'm proud of:** This tool purpose is to automatize the build process for all the platform RUN : The World In-Between is on. It allow me to build for Windows, MacOS and Linux upload the game on Steam and Itch.io, but I gave it the flexibility to be extended to other game and distribution platform, as it can execute custom scripts after the build. I save a lot of time and avoid errors during release.
+* * *
+
+
 
 # Help given on other projects
 * * * 
@@ -100,8 +100,8 @@ to house without getting detected and caught by dogs haunting the neighborhood.
 ### Loto Vocal (android app)
 *Godot 3.2*  
 A very simple android app to play Bingo with my familly. It allowed me to experience exporting app for android. On a simple touch,
-the app pull a number from 1 to 90 and it read it out loud with the beautiful voice of my wife. Each pulled numbered are 
-noted on the side of the screen to check during the game. Grids and chips not included.  
+the app pull a number from 1 to 90 and it read it out loud with the beautiful voice of my wife. Each pulled number are 
+noted on the side of the screen to check during the game. Grids and fried chips not included.  
 
 ### Alien Wakeup Ritual (gamejam game)
 *Unity 3D*  
