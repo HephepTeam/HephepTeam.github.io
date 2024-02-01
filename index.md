@@ -5,6 +5,8 @@ I'm Michaël Boyer, or Hephep. I'm a french videogame maker working mainly with 
 This is my portfolio, about all the projects I was involved in. Currently part of the Team Run. Have fun!
 * * *
 
+
+
 # Complete Games
 * * * 
 ## Run: The World In Between
@@ -31,6 +33,9 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * **Tools and framework:** Unity 3D
 * **What I'm proud of:** First "complete" project with a beginning and an end, it still make me laugh after all these years!
 * * * 
+
+
+
 # In development
 * * * 
 ## Broken Lens
