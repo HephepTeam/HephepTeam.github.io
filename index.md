@@ -60,7 +60,7 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 * * * 
 
 ### Make Me Fall (Global Gamejam 2024)
-<a href="/assets/images/intothefriches/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
+<a href="/assets/images/make me fall/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
 *Godot 4.2.1*  
 [Itch.io link](https://hephep.itch.io/make-me-fall-ggj2024)){:target="_blank"}   
 Theme : "Make me laugh"
