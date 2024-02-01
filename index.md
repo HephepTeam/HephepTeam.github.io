@@ -59,11 +59,18 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 # Prototypes, experiments and gamejam games
 * * * 
 
+### Make Me Fall (Global Gamejam 2024)
+<a href="/assets/images/intothefriches/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
+*Godot 4.2.1*  
+[Itch.io link](https://hephep.itch.io/make-me-fall-ggj2024)){:target="_blank"}   
+Theme : "Make me laugh"
+Again with my sister for the art and musics, with another dev. Focused on the situational comic relief, we choosed to go for a wacky party game (up to 4 players) inspired by Fall Guys but with goofy items. Levels are generated with pieces of level as in RUN : The World In-between. We lacked a bit on sound design and I had a very bad time using tiles, the detection when a player should fall is very bad. I should have gone for polygons shapes for the ground. Still a very good experience !
 
-### Into the Friches (gamejam game)
+### Into the Friches (Global Gamejam 2023)
 <a href="/assets/images/intothefriches/screenshot.png" target="_blank"><img src="/assets/images/intothefriches/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
 *Godot 4.beta.13*  
 [Itch.io link](https://hephep.itch.io/ggj23-into-the-friches){:target="_blank"}   
+Theme: "roots"
 First time doing a "strategy" game / turn-based game, for the Global Game Jam 2023, with my sister doing Arts and Musics.
 The goal is to balance the carbon emissions of a region, acting on the tiles with modifiers to shape the landscape and enhance to total score.   
 
