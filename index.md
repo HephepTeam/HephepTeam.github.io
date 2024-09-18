@@ -56,6 +56,7 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 * **What I'm proud of:** This tool purpose is to automatize the build process for all the platform RUN : The World In-Between is on. It allow me to build for Windows, MacOS and Linux upload the game on Steam and Itch.io, but I gave it the flexibility to be extended to other game and distribution platform, as it can execute custom scripts after the build. I save a lot of time and avoid errors during release.
 
 ## Virtual Quarto
+<a href="/assets/images/virtual quarto/screenshot.png" target="_blank"><img src="/assets/images/virtual quarto/screenshot.png" width="305" height="180" alt="Virtual Quarto" /></a>  
 * **Game Type:** virtual boardgame
 * **Platforms:** Web, PC
 * **Role on the project:** main developer
