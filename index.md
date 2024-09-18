@@ -9,6 +9,17 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 
 # Complete Games
 * * * 
+## Broken Lens
+![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
+![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
+![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
+![Broken Lens menu](assets/images/broken lens/BL_book.gif)
+* **Game Type:** Puzzle / Spot the differences
+* **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
+* **Role on the project:** main developer, game designer
+* **Tools and framework:** Godot Engine 3.5
+* **What I'm proud of:** Whole new style art style, working with Viewports, gaining experience in many fields. I did a pretty neat interactive book with shaders!
+
 ## Run: The World In Between
 ![Run: The World In Between](assets/images/run/run.gif)
 * **Game Type:** Platformer / Runner
@@ -38,23 +49,19 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 
 # In development
 * * * 
-## Broken Lens
-![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
-![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
-![Broken Lens menu](assets/images/broken lens/BL_ingame.png)
-![Broken Lens menu](assets/images/broken lens/BL_book.gif)
-* **Game Type:** Puzzle / Spot the differences
-* **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
-* **Role on the project:** main developer, game designer
-* **Tools and framework:** Godot Engine 3.5
-* **What I'm proud of:** Whole new style art style, working with Viewports, gaining experience in many fields. I did a pretty neat interactive book with shaders. I'm still learning every day!
-
 ## HephepBuilder
 * **Game Type:** Tool
 * **Platforms:** [Github](https://github.com/HephepTeam/HephepBuilder){:target="_blank"}
 * **Role on the project:** main developer
 * **Tools and framework:** Godot Engine 4.2
 * **What I'm proud of:** This tool purpose is to automatize the build process for all the platform RUN : The World In-Between is on. It allow me to build for Windows, MacOS and Linux upload the game on Steam and Itch.io, but I gave it the flexibility to be extended to other game and distribution platform, as it can execute custom scripts after the build. I save a lot of time and avoid errors during release.
+
+## Virtual Quarto
+* **Game Type:** virtual boardgame
+* **Platforms:** Web, PC
+* **Role on the project:** main developer
+* **Tools and framework:** Godot Engine 4.2
+* **What I'm proud of:** Second game in 3D, I focused on the feeling and learning since the game design was already made. I simply copied the pieces and rules of a boardgame named Quarto. I learned a lot about materials and spatial movements. Still in development because I still can't export a web build without having the visuals ruined, so I'm working on it.
 * * *
 
 
@@ -70,6 +77,12 @@ A fan made reimagining of MOTHER 1/EarthBound Beginnings. I implemented the inve
 
 # Prototypes, experiments and gamejam games
 * * * 
+### Grosse Patate (Boca'jam 2024)
+<a href="/assets/images/grosse patate/screenshot.png" target="_blank"><img src="/assets/images/grosse patate/screenshot.png" width="339" height="180" alt="Grosse Patate" /></a>  
+*Godot 4.2.1*  
+[Itch.io link](https://hephep.itch.io/grosse-patate){:target="_blank"}   
+*Theme : 3D experimentations*
+A nice jam taking place in a self-directed shared house in Normandie, France. No specific theme, the goal was to share knowledge among participant. I took advantage of that and tried a FPS 3D game where you have to climp obstacle, and you can jump by hitting the floor and walls with your fist. 
 
 ### Make Me Fall (Global Gamejam 2024)
 <a href="/assets/images/make me fall/screenshot.png" target="_blank"><img src="/assets/images/make me fall/screenshot.png" width="339" height="180" alt="Into the Friches" /></a>  
