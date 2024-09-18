@@ -10,9 +10,8 @@ This is my portfolio, about all the projects I was involved in. Currently part o
 # Complete Games
 * * * 
 ## Broken Lens
-![Broken Lens menu](assets/images/broken lens/BL_menu.gif)
 ![Broken Lens menu](assets/images/broken lens/BL_menu2.png)
-![Broken Lens ingame](assets/images/broken lens/BL_Frogs.gif)
+![Broken Lens ingame](assets/images/broken lens/BL_frogs.gif)
 ![Broken Lens book](assets/images/broken lens/BL_book.gif)
 * **Game Type:** Puzzle / Spot the differences
 * **Platforms:** [Steam](https://store.steampowered.com/app/2184770/Broken_Lens/){:target="_blank"}
